@@ -59,17 +59,6 @@ Developed RESTful backend services using Java Spring Boot and built secure APIs 
 
 ---
 
-## 📊 GitHub Stats
-
-![Nizam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NizamHaque&show_icons=true&theme=default)
-
----
-
-## 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NizamHaque&layout=compact&theme=default)
-
----
 
 ## 🤝 Let's Connect
 
