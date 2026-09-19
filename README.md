@@ -17,9 +17,9 @@
     <img src="https://img.shields.io/badge/GitHub-Projects-111827?style=for-the-badge&logo=github&logoColor=4F7CFF&labelColor=111827" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="mailto:mdnizamhaque13@gmail.com">
-    <img src="https://img.shields.io/badge/Available%20For-Opportunities-4F7CFF?style=for-the-badge&logoColor=white&labelColor=111827" alt="Opportunities" />
-  </a>
+ <a href="https://www.linkedin.com/in/nizam-haque-dev77/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-4F7CFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn" />
+</a>
 </p>
 
 <p align="center">
@@ -479,11 +479,11 @@ AI-based smart grid fault detection and predictive maintenance.
 </td>
 
 <td align="center" width="220" style="padding: 16px;">
-  <a href="mailto:mdnizamhaque13@gmail.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="54" height="54" alt="LinkedIn" />
-    <br /><br />
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-4F7CFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn" />
-  </a>
+ <a href="https://www.linkedin.com/in/nizam-haque-dev77/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="54" height="54" alt="LinkedIn" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-4F7CFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn" />
+</a>
   <br />
   <sub><b>Professional Network</b></sub>
 </td>
