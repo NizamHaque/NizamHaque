@@ -1,112 +1,133 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Nizam Ul Haque Header" />
+  <img src="assets/header.svg" width="100%" alt="MD Nizam Ul Haque Header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/NizamHaque">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Hi+there!+I'm+Nizam+Ul+Haque+%F0%9F%91%8B;IoT+Engineer+%26+AI%2FML+Developer+%F0%9F%A4%96;Full-Stack+Java+%26+Python+Developer+%F0%9F%92%BB;Computer+Vision+%26+Machine+Learning+Enthusiast+%F0%9F%A7%A0;Building+Real-World+AI+%26+IoT+Solutions+%E2%9A%A1" width="100%" style="max-width: 650px;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=4F7CFF&center=true&vCenter=true&multiline=false&width=650&height=40&lines=Hi+there!+I'm+MD+Nizam+Ul+Haque+%F0%9F%91%8B;Computer+Science+%26+IoT+Engineer+%F0%9F%92%BB;AI%2FML+%26+Full-Stack+Developer+%F0%9F%A4%96;Java+%7C+Python+%7C+Spring+Boot+%7C+React;Building+Practical+Software+%26+AI+Solutions+%E2%9A%A1" width="100%" style="max-width: 650px;" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  <a href="mailto:mdnizamhaque13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-4F7CFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email" />
   </a>
   &nbsp;
-  <a href="mailto:nizamhaque2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  <a href="https://github.com/NizamHaque">
+    <img src="https://img.shields.io/badge/GitHub-Projects-111827?style=for-the-badge&logo=github&logoColor=4F7CFF&labelColor=111827" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://github.com/NizamHaque" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=2563EB&labelColor=0a0a0a" alt="GitHub" />
+  <a href="mailto:mdnizamhaque13@gmail.com">
+    <img src="https://img.shields.io/badge/Available%20For-Opportunities-4F7CFF?style=for-the-badge&logoColor=white&labelColor=111827" alt="Opportunities" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NizamHaque&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NizamHaque&label=PROFILE%20VIEWS&color=4F7CFF&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-<h2 align="center">🔵 About Me</h2>
+<h2 align="center">✨ About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&width=650&height=28&lines=Building+with+AI.+Developing+with+purpose.+Learning+every+day." width="100%" style="max-width: 650px;" alt="Typing Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3200&pause=1100&color=7C8DB5&center=true&vCenter=true&multiline=false&width=620&height=28&lines=Curious+about+technology.+Focused+on+building.+Always+learning." width="100%" style="max-width: 620px;" alt="About Quote" />
 </p>
 
 <p align="center">
-  Hey! I'm <b>MD Nizam Ul Haque</b>, a <b>B.Tech Internet of Things graduate</b> and developer based in India.<br />
-  I work across <b>AI/ML, Computer Vision, Full-Stack Development, IoT and Backend Engineering</b> to build practical real-world applications.
+  I'm <b>MD Nizam Ul Haque</b>, a Computer Science with IoT graduate from
+  <b>Madhav Institute of Technology and Science, Gwalior</b>.
+  <br /><br />
+  I enjoy building <b>full-stack applications, backend systems, AI/ML solutions
+  and computer vision projects</b> that solve practical problems.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Learning-111111?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20with%20IoT-4F7CFF?style=flat-square" alt="Degree" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Degree-B.Tech._Internet_of_Things-2563EB?style=flat-square" alt="Degree" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Full--Stack-111827?style=flat-square" alt="Focus" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-AI%2FML_%26_Full--Stack-111111?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/DSA-500%2B%20Problems-4F7CFF?style=flat-square" alt="DSA" />
 </p>
 
 <p align="center">
-  💬 <b>Interested In:</b> AI/ML, Java, Python, Spring Boot, Computer Vision, IoT & Backend Development.<br />
-  ⚡ <b>Approach:</b> <i>"Learn, build, deploy, and keep improving."</i>
+  💡 <b>Interests:</b> AI/ML • Backend Engineering • Full-Stack Development • Computer Vision • IoT
+  <br />
+  ⚡ <b>Currently building:</b> Java, Spring Boot, React & AI-powered applications
 </p>
 
 <table width="100%" border="0" align="center">
 <tr>
-<td width="50%" align="center" style="padding: 14px;">
+
+<td width="50%" align="center" style="padding: 16px;">
   <h4>🔐 Featured Project</h4>
-  <p><b>AuthenticAI</b><br /><sub>AI-Powered Product Authentication</sub></p>
+  <p>
+    <b>AuthenticAI</b><br />
+    <sub>AI-Powered Product Authentication</sub>
+  </p>
 </td>
 
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>🌱 Current Focus</h4>
-  <p><b>Java & Spring Boot</b><br /><sub>AI/ML & Full-Stack Development</sub></p>
+<td width="50%" align="center" style="padding: 16px;">
+  <h4>💻 Development Focus</h4>
+  <p>
+    <b>Java & Spring Boot</b><br />
+    <sub>Full-Stack & Backend Engineering</sub>
+  </p>
 </td>
+
 </tr>
 
 <tr>
-<td width="50%" align="center" style="padding: 14px;">
+
+<td width="50%" align="center" style="padding: 16px;">
   <h4>🔬 Research</h4>
-  <p><b>AI & Computer Vision</b><br /><sub>IEEE Conference Research</sub></p>
+  <p>
+    <b>AI & Computer Vision</b><br />
+    <sub>IEEE Conference Publication</sub>
+  </p>
 </td>
 
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>🤝 Collaboration</h4>
-  <p><b>AI, Web & IoT</b><br /><sub>Open to interesting projects</sub></p>
+<td width="50%" align="center" style="padding: 16px;">
+  <h4>🧩 Problem Solving</h4>
+  <p>
+    <b>500+ DSA Problems</b><br />
+    <sub>LeetCode & GeeksforGeeks</sub>
+  </p>
 </td>
+
 </tr>
 </table>
 
 ---
 
-<h2 align="center">🔵 Featured Project Spotlight</h2>
+<h2 align="center">🚀 Featured Project</h2>
 
 <table width="100%" border="0" align="center">
 <tr>
-<td align="center" style="padding: 22px;">
+<td align="center" style="padding: 24px;">
 
 <h3>🔐 AuthenticAI — AI-Powered Product Authentication</h3>
 
 <p>
 <i>
-A full-stack AI-powered product authentication platform that uses Computer Vision and Machine Learning to analyze product images and identify potentially authentic or fake products.
+A full-stack product authentication platform combining computer vision,
+zero-shot validation and deep-learning based authenticity classification.
 </i>
+</p>
+
+<p>
+<b>Pipeline:</b> CLIP Zero-Shot Validation → MobileNetV2 Authenticity Classification
+</p>
+
+<p>
+<b>Stack:</b> Python • Flask • TensorFlow • PyTorch • CLIP • MobileNetV2 • React.js • Docker
 </p>
 
 <br />
 
-<p>
-  <a href="https://authentic-ai-gray.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit%20Platform-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
-  </a>
-
-  
-
-  <a href="https://github.com/NizamHaque" target="_blank">
-    <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=2563EB&labelColor=0a0a0a" alt="Source Code" />
-  </a>
-</p>
+<a href="https://authentic-ai-gray.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Platform-4F7CFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" alt="AuthenticAI Live Demo" />
+</a>
 
 </td>
 </tr>
@@ -114,71 +135,190 @@ A full-stack AI-powered product authentication platform that uses Computer Visio
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🧩 Featured Projects</h2>
 
 <table width="100%" border="0" align="center">
 
 <tr>
-<td width="50%" align="center" style="padding: 18px;">
 
-<h3>🔐 AuthenticAI</h3>
-
-<p>
-AI-powered product authentication platform using Computer Vision, Machine Learning, Flask and a modern full-stack interface.
-</p>
-
-</td>
-
-<td width="50%" align="center" style="padding: 18px;">
+<td width="50%" align="center" style="padding: 20px;">
 
 <h3>🏢 Multi-Tenant SaaS Dashboard</h3>
 
 <p>
-Secure multi-tenant management platform with authentication, JWT security, tenant isolation, analytics and real-time communication.
+A SaaS management platform supporting multiple organizations with isolated
+data access, JWT authentication and hierarchical role management.
+</p>
+
+<p>
+<sub>
+React.js • Spring Boot • MongoDB • Spring Security • JWT • REST APIs
+</sub>
+</p>
+
+</td>
+
+<td width="50%" align="center" style="padding: 20px;">
+
+<h3>🔐 AuthenticAI</h3>
+
+<p>
+AI-powered product authentication using a two-stage computer vision pipeline
+with CLIP zero-shot validation and a MobileNetV2 authenticity classifier.
+</p>
+
+<p>
+<sub>
+Python • Flask • PyTorch • TensorFlow • React.js • Docker
+</sub>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" style="padding: 20px;">
+
+<h3>🛒 E-Commerce Platform</h3>
+
+<p>
+Scalable e-commerce platform with buyer and seller portals, inventory,
+order tracking, payment processing and role-based access control.
+</p>
+
+<p>
+<sub>
+React.js • Spring Boot • MySQL • JWT • RBAC • Razorpay
+</sub>
+</p>
+
+</td>
+
+<td width="50%" align="center" style="padding: 20px;">
+
+<h3>🗳️ AI E-Voting Research</h3>
+
+<p>
+Research project focused on an Aadhaar-based electronic voting system
+integrating facial recognition for enhanced security and accessibility.
+</p>
+
+<p>
+<sub>
+IEEE SCEECS 2025 • Facial Recognition • AI • Security
+</sub>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <b>Languages</b>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,js&theme=light" alt="Programming Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Frontend & Backend</b>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,spring,flask&theme=light" alt="Frontend Backend" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Databases & Development Tools</b>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,maven,postman,docker&theme=light" alt="Databases and Tools" />
+  </a>
+</p>
+
+<p align="center">
+  <b>AI / ML & Computer Vision</b>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=light" alt="AI ML Computer Vision" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OOP-4F7CFF?style=flat-square" alt="OOP" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/REST%20APIs-4F7CFF?style=flat-square" alt="REST APIs" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JWT-4F7CFF?style=flat-square" alt="JWT" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/DSA-4F7CFF?style=flat-square" alt="DSA" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/System%20Design-Basics-4F7CFF?style=flat-square" alt="System Design" />
+</p>
+
+---
+
+<h2 align="center">💼 Experience</h2>
+
+<table width="100%" border="0" align="center">
+
+<tr>
+<td align="center" style="padding: 20px;">
+
+<h3>🔬 Research Intern — 5G Lab, IIIT Delhi</h3>
+
+<p>
+<b>Jun – Jul 2025 · New Delhi, India</b>
+</p>
+
+<p>
+Engineered a real-time distributed monitoring system integrating
+<b>Computer Vision, IoT sensors and backend APIs</b> over a private 5G network.
+Designed scalable backend modules for real-time event processing and
+low-latency alert generation.
+</p>
+
+<p>
+<sub>Computer Vision • IoT • Backend APIs • Private 5G • Git • Integration Testing</sub>
 </p>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" align="center" style="padding: 18px;">
+<td align="center" style="padding: 20px;">
 
-<h3>🗳️ AI E-Voting System</h3>
+<h3>💻 Web Developer Intern — Threat Expert Cyber Solution</h3>
 
 <p>
-Aadhaar-based e-voting system with facial recognition developed for secure and accessible digital voting.
+<b>Apr – May 2025 · Remote</b>
 </p>
 
-</td>
-
-<td width="50%" align="center" style="padding: 18px;">
-
-<h3>⚡ Smart Grid Fault Detection</h3>
-
 <p>
-AI-powered system for electrical grid fault detection and predictive maintenance using machine learning.
+Developed scalable <b>RESTful backend services using Java Spring Boot</b>,
+built secure APIs consumed by React applications and worked across
+debugging, testing, code reviews and Agile development cycles.
 </p>
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center" style="padding: 18px;">
-
-<h3>📡 5G IoT Monitoring</h3>
-
 <p>
-Real-time Computer Vision and IoT monitoring system using YOLO-based detection and private 5G network infrastructure.
-</p>
-
-</td>
-
-<td width="50%" align="center" style="padding: 18px;">
-
-<h3>🚛 Smart Waste Management</h3>
-
-<p>
-AI-driven garbage truck monitoring and intelligent waste management system using Computer Vision and IoT technologies.
+<sub>Java • Spring Boot • REST APIs • React • OOP • Agile • Testing</sub>
 </p>
 
 </td>
@@ -193,40 +333,36 @@ AI-driven garbage truck monitoring and intelligent waste management system using
 <table width="100%" border="0" align="center">
 
 <tr>
-<td align="center" style="padding: 18px;">
+<td align="center" style="padding: 20px;">
 
 <h3>🗳️ Aadhaar-Based E-Voting System with Facial Recognition</h3>
 
 <p>
-Research on an Aadhaar-based electronic voting system integrating facial recognition to improve security and accessibility.
+<b>IEEE International Students' Conference — SCEECS 2025</b>
 </p>
 
 <p>
-<b>IEEE Student Conference — SCEECS 2025</b>
+"Design and Implementation of an Aadhaar-Based E-Voting System with
+Facial Recognition for Enhanced Security and Accessibility."
+</p>
+
+<p>
+<sub>
+IEEE SCEECS 2025 · DOI: 10.1109/SCEECS64059.2025.10940330
+</sub>
 </p>
 
 </td>
 </tr>
 
 <tr>
-<td align="center" style="padding: 18px;">
+<td align="center" style="padding: 20px;">
 
 <h3>⚡ AI-Powered Smart Grid Fault Detection & Predictive Maintenance</h3>
 
 <p>
-Research focused on AI-based electrical grid fault detection, anomaly analysis and predictive maintenance using voltage, current and frequency data.
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" style="padding: 18px;">
-
-<h3>🚛 AI-Driven Garbage Truck Monitoring & Smart Waste Management</h3>
-
-<p>
-Research focused on Computer Vision and intelligent monitoring for improving garbage collection and waste management operations.
+Research work presented/submitted under <b>ICSPER 2025</b>, focused on
+AI-based smart grid fault detection and predictive maintenance.
 </p>
 
 </td>
@@ -236,94 +372,61 @@ Research focused on Computer Vision and intelligent monitoring for improving gar
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
-
-<p align="center"><b>Programming Languages</b></p>
+<h2 align="center">🏆 Achievements & Certifications</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,js&theme=dark" width="100%" style="max-width: 300px;" alt="Programming Languages" />
-  </a>
-</p>
 
-<p align="center"><b>Frontend & Full-Stack Development</b></p>
+<img src="https://img.shields.io/badge/500%2B-DSA%20Problems-4F7CFF?style=for-the-badge&labelColor=111827" alt="500+ DSA Problems" />
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" width="100%" style="max-width: 300px;" alt="Frontend" />
-  </a>
-</p>
+ 
 
-<p align="center"><b>Backend & Databases</b></p>
+<img src="https://img.shields.io/badge/IEEE-2025%20Publication-4F7CFF?style=for-the-badge&labelColor=111827" alt="IEEE Publication" />
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,flask,nodejs,mongodb,mysql&theme=dark" width="100%" style="max-width: 400px;" alt="Backend and Databases" />
-  </a>
-</p>
+ 
 
-<p align="center"><b>AI, Computer Vision, IoT & DevOps</b></p>
+<img src="https://img.shields.io/badge/NPTEL-Elite-4F7CFF?style=for-the-badge&labelColor=111827" alt="NPTEL Elite" />
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,arduino,raspberrypi,docker,git,github&theme=dark" width="100%" style="max-width: 500px;" alt="AI IoT and DevOps" />
-  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=2563EB" alt="Python" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-0a0a0a?style=for-the-badge&logo=tensorflow&logoColor=2563EB" alt="TensorFlow" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-0a0a0a?style=for-the-badge&logo=pytorch&logoColor=2563EB" alt="PyTorch" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/OpenCV-0a0a0a?style=for-the-badge&logo=opencv&logoColor=2563EB" alt="OpenCV" />
+  🏅 <b>Meritocracy Award</b> — MITS Gwalior for academic and project excellence
+  <br />
+  ☁️ <b>NPTEL Elite</b> — Cloud, IoT Edge ML
+  <br />
+  ☕ <b>HackerRank Java (Basic)</b> — Skills Certification
+  <br />
+  📊 <b>Data Visualization</b> — Forage
 </p>
 
 ---
 
-<h2 align="center">💼 Experience</h2>
+<h2 align="center">📈 Problem Solving</h2>
 
-<table width="100%" border="0" align="center">
-
-<tr>
-<td align="center" style="padding: 18px;">
-
-<h3>🔬 Research Intern — IIIT Delhi</h3>
-
-<p>
-Worked on real-time Computer Vision and IoT-based monitoring systems involving object detection, data processing and backend integration over a private 5G environment.
+<p align="center">
+  <i>500+ Data Structures & Algorithms problems solved across LeetCode and GeeksforGeeks.</i>
 </p>
 
-</td>
-</tr>
-
-<tr>
-<td align="center" style="padding: 18px;">
-
-<h3>💻 Web Developer — Threat Expert Cyber Solution</h3>
-
-<p>
-Worked on web development and backend services with a focus on secure APIs, application development and Java Spring Boot technologies.
+<p align="center">
+  <img src="https://img.shields.io/badge/Arrays-✓-4F7CFF?style=flat-square" alt="Arrays" />
+  <img src="https://img.shields.io/badge/Linked%20Lists-✓-4F7CFF?style=flat-square" alt="Linked Lists" />
+  <img src="https://img.shields.io/badge/Trees-✓-4F7CFF?style=flat-square" alt="Trees" />
+  <img src="https://img.shields.io/badge/Graphs-✓-4F7CFF?style=flat-square" alt="Graphs" />
+  <img src="https://img.shields.io/badge/DP-✓-4F7CFF?style=flat-square" alt="Dynamic Programming" />
+  <img src="https://img.shields.io/badge/Greedy-✓-4F7CFF?style=flat-square" alt="Greedy" />
 </p>
-
-</td>
-</tr>
-
-</table>
 
 ---
 
-<h2 align="center">📊 GitHub Analytics & Activity</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=NizamHaque&show_icons=true&bg_color=0a0a0a&title_color=2563EB&text_color=f3f4f6&icon_color=2563EB&border_color=2563EB&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=NizamHaque&show_icons=true&bg_color=ffffff&title_color=2563EB&text_color=374151&icon_color=4F7CFF&border_color=E5E7EB&border_radius=10" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NizamHaque&layout=compact&bg_color=0a0a0a&title_color=2563EB&text_color=f3f4f6&border_color=2563EB&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NizamHaque&layout=compact&bg_color=ffffff&title_color=2563EB&text_color=374151&border_color=E5E7EB&border_radius=10" width="100%" style="max-width: 350px;" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NizamHaque&theme=dark&hide_border=false&border=2563EB&background=0a0a0a&ring=2563EB&fire=2563EB&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2563EB&sideLabels=2563EB&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NizamHaque&theme=default&hide_border=false&border=E5E7EB&background=ffffff&ring=4F7CFF&fire=4F7CFF&currStreakNum=111827&sideNums=374151&currStreakLabel=4F7CFF&sideLabels=6B7280&dates=9CA3AF" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
 </p>
 
 ---
@@ -331,28 +434,24 @@ Worked on web development and backend services with a focus on secure APIs, appl
 <h2 align="center">⚡ Contribution Journey</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
-<h2 align="center">📚 Currently Learning</h2>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Java%20%26%20DSA-2563EB?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java DSA" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-2563EB?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/AI%2FML-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI ML" />
-  <img src="https://img.shields.io/badge/System%20Design-2563EB?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System Design" />
+  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Programming Quote" />
 </p>
 
 ---
 
-<h2 align="center">📬 Let's Connect & Collaborate</h2>
+<h2 align="center">📬 Let's Connect</h2>
 
 <p align="center">
-<i>
-Whether you want to discuss AI/ML, full-stack development, IoT, backend engineering, or collaborate on an interesting project — feel free to connect.
-</i>
+  <i>
+    Interested in AI/ML, backend engineering, full-stack development,
+    computer vision or IoT? Let's connect and build something useful.
+  </i>
 </p>
 
 <table border="0" align="center">
@@ -360,33 +459,33 @@ Whether you want to discuss AI/ML, full-stack development, IoT, backend engineer
 <tr>
 
 <td align="center" width="220" style="padding: 16px;">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
+  <a href="mailto:mdnizamhaque13@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="54" height="54" alt="Email" />
     <br /><br />
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Email-Contact-4F7CFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email" />
   </a>
   <br />
-  <sub><b>Professional Network</b></sub>
+  <sub><b>Direct Contact</b></sub>
 </td>
 
 <td align="center" width="220" style="padding: 16px;">
-  <a href="mailto:nizamhaque2003@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
+  <a href="https://github.com/NizamHaque">
+    <img src="https://skillicons.dev/icons?i=github" width="54" height="54" alt="GitHub" />
     <br /><br />
-    <img src="https://img.shields.io/badge/Email-Contact_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-  </a>
-  <br />
-  <sub><b>Direct Collaboration</b></sub>
-</td>
-
-<td align="center" width="220" style="padding: 16px;">
-  <a href="https://github.com/NizamHaque" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
-    <br /><br />
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=2563EB&labelColor=0a0a0a" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-View%20Code-111827?style=for-the-badge&logo=github&logoColor=4F7CFF&labelColor=111827" alt="GitHub" />
   </a>
   <br />
   <sub><b>Projects & Code</b></sub>
+</td>
+
+<td align="center" width="220" style="padding: 16px;">
+  <a href="mailto:mdnizamhaque13@gmail.com">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="54" height="54" alt="LinkedIn" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-4F7CFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn" />
+  </a>
+  <br />
+  <sub><b>Professional Network</b></sub>
 </td>
 
 </tr>
@@ -394,9 +493,9 @@ Whether you want to discuss AI/ML, full-stack development, IoT, backend engineer
 </table>
 
 <p align="center">
-  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+  <img src="assets/footer.svg" width="100%" alt="Nizam Ul Haque Footer" />
 </p>
 
 <p align="center">
-  <i>Building. Learning. Deploying. Repeating.</i>
+  <sub>Building • Learning • Solving • Deploying</sub>
 </p>
